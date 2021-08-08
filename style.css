@@ -43,11 +43,13 @@ nav.navbar-transparente{
     margin: 16px 10px;
 }
 
+
 /*definir cor dos links*/
 
 .navbar-inverse .navbar-nav>li>a, #rodape .nav a{
     color: white;
 }
+
 
 /*definir hover dos links*/
 
@@ -55,6 +57,7 @@ nav.navbar-transparente{
     color: #9bf0e1;
     background: none;
 }
+
 
 /*Imagem de capa*/
 
